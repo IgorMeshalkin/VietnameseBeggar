@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ReactNativeApp",
+    "name": "Вьетнамская нищенка",
     "slug": "ReactNativeApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -15,16 +15,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "y"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.ReactNativeApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9f3da5e3-f5b2-4708-b94d-7fa3db05351e"
+      }
     }
   }
 }
