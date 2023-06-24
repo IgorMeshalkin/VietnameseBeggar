@@ -25,9 +25,7 @@
 
 Внешний вид
 -----------
-![splash](https://github.com/IgorMeshalkin/VietnameseBeggar/assets/97287038/65651da6-308f-4a0b-bb71-34dc0a7b284e)
-![Screenshot_20230617_165350_Expo_Go 1](https://github.com/IgorMeshalkin/VietnameseBeggar/assets/97287038/66f0e6d5-5cfc-47fd-9a49-4f13550d8180)
-![Screenshot_20230617_165420_Expo_Go 1](https://github.com/IgorMeshalkin/VietnameseBeggar/assets/97287038/910af644-90e8-43ea-9191-59ccf4d7ee9a)
+<img src="/assets/splash.png" width="30%"> <img src="/screenshots/mainMenuScreenshot.jpg" width="30%"> <img src="/screenshots/calculatorScreenshot.jpg" width="30%"> 
 <br><br>
 
 Технологии
